@@ -14,6 +14,18 @@ In this instance, I created a "postcard" for each country, and represent individ
 ![screen shot 2018-09-11 at 9 34 23](https://user-images.githubusercontent.com/31703048/45372311-a74a2980-b5ba-11e8-919d-440c524aacf3.png)
 
 
+![screen shot 2018-09-11 at 9 33 52](https://user-images.githubusercontent.com/31703048/45372312-a74a2980-b5ba-11e8-9247-effaf4606218.png)
 
+
+![screen shot 2018-09-11 at 9 31 00](https://user-images.githubusercontent.com/31703048/45372313-a74a2980-b5ba-11e8-98a7-e09bffdf4df2.png)
+
+
+![screen shot 2018-09-11 at 9 29 42](https://user-images.githubusercontent.com/31703048/45372315-a74a2980-b5ba-11e8-97dd-f75ab20c89d4.png)
+
+
+![screen shot 2018-09-11 at 9 28 06](https://user-images.githubusercontent.com/31703048/45372316-a74a2980-b5ba-11e8-8d77-04e3c2019252.png)
+
+
+![screen shot 2018-09-11 at 9 27 45](https://user-images.githubusercontent.com/31703048/45372317-a74a2980-b5ba-11e8-8897-66504d820cca.png)
 
 * working with the marginal error
