@@ -64,7 +64,7 @@ function draw() {
   // console.log(currentSeconds);
   background(220,30);
   fill(0);
-  if (frameCount % 50 == 0){
+  if (frameCount % 30 == 0){
 
     if (x < bouncers.length){
       x++;
