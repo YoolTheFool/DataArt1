@@ -10,7 +10,7 @@ https://yoolthefool.github.io/DataArt1/
 
 Each country is represented by a circle being placed randomally and then pulled to the "ground". The estimation numbers are being used as diameters for the circles. The circles appear every secound or so, so you can distinct between the circles. I made it fast so that the whole process won't be too long and also I wanted to make the visualization very abrupt and overwhelming. After all the circles have been dropped - There is this steady/unsteady state of all circles (nations) "jitterring" on the same level - We will always be foreigners in the US. 
 
-## Second vis - Snapshot (Pipes)
+## Second vis - Snapshot (Splash)
 In this instance, I created a "postcard" for each country, and represent individually how each nationality splatters on the Amrican society. This is not a wholistic representation, but rather a one time snapshot of one nationality at a time. 
 
 ![screen shot 2018-09-11 at 9 34 23](https://user-images.githubusercontent.com/31703048/45372311-a74a2980-b5ba-11e8-919d-440c524aacf3.png)
@@ -42,6 +42,7 @@ For this last one I wanted to create another "snapshot" visualization for each n
  
  ![screen shot 2018-09-11 at 12 16 01](https://user-images.githubusercontent.com/31703048/45373469-8df6ac80-b5bd-11e8-9f61-6ff577a5d13f.png)
 
+The distinction between each nation would rely on the pipe-breaks. The timing of each break, would determine the outcome. I started working with tring to realize conceptually how to turn a number (the estimation) into a pipe-break-pattern. I wanted for each break in the pipe to represent something but I got stuck in a maze of turning each number into a timing mechanism that will declare the "rythem" of the breaks. As I'm posting this I'm tring to find a sulution. 
 
 
-* working with the marginal error
+*  A question for class - During the work I tried to think what can I do and how do I approach to the working with the margin of error.
