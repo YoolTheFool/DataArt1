@@ -1,7 +1,7 @@
 # DataArt - section 1. 
 ## Assignment - 3 data vis
 
-The dataset - reflects the foreign-born population of the entire US. This assignment was a good opportunity for me re-kindle my Javascript abilities (which are not great). Quickly, I decided to take a few of my previous p5 sketches and try to work with them. The problem started when the instrument i.e the sketches, became the main concern, and not the representation of a conceptual piece.Eventually, the work paid off (meaning that I learned how to approach a dataset with Javascript, not that it came out nicely). Looking at the data set I thought simple - I want to show the difference in scale between the countries. That difference was not easy on the mapping since I needed to find the sweet-spot so that the large numbers won't saturate and the small ones won't evaporate.
+The dataset - reflects the foreign-born population of the entire US. This assignment was a good opportunity for me re-kindle my Javascript abilities (which are not great). Quickly, I decided to take a few of my previous p5 sketches and try to work with them. The problem started when the instrument i.e the sketches, became the main concern, and not the representation of a conceptual piece. Eventually, the work paid off (meaning that I learned how to approach a dataset with Javascript, not that it came out nicely). Looking at the data set I thought - I want to show the difference in scale between the countries. That difference was not easy on the mapping since I needed to find the sweet-spot so that the large numbers won't saturate and the small ones won't evaporate.
 Having said that I had created two and a half presentations for this particular dataset.
 
 ## First Vis - animation (Bubble)
@@ -33,7 +33,7 @@ In this instance, I created a "postcard" for each country, and represent individ
 
 It's nice to see that when there are many foreigners the name of the country is almost lost.
 
-## Third vis - or Two and a half: 
+## Third vis : 
 
 For this last one I wanted to create another "snapshot" visualization for each nation, created by a "pipes" animation. (Like the Windows screensaver).  
 
@@ -42,7 +42,7 @@ For this last one I wanted to create another "snapshot" visualization for each n
  
  ![screen shot 2018-09-11 at 12 16 01](https://user-images.githubusercontent.com/31703048/45373469-8df6ac80-b5bd-11e8-9f61-6ff577a5d13f.png)
 
-The distinction between each nation would rely on the pipe-breaks. The timing of each break, would determine the outcome. I started working with tring to realize conceptually how to turn a number (the estimation) into a pipe-break-pattern. I wanted for each break in the pipe to represent something but I got stuck in a maze of turning each number into a timing mechanism that will declare the "rythem" of the breaks. As I'm posting this I'm tring to find a sulution. 
+The distinction between each nation would rely on the pipe-breaks. The timing of each break, would determine the outcome. I started working with tring to realize conceptually how to turn a number (the estimation) into a pipe-break-pattern. I wanted for each break in the pipe to represent something but I got stuck in a maze of turning each number into a timing mechanism that will declare the "rythem" of the breaks. As I'm posting this I'm trying to find a solution. 
 
 
 *  A question for class - During the work I tried to think what can I do and how do I approach to the working with the margin of error.
