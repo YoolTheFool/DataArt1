@@ -17,7 +17,7 @@ function setup() {
 
   // put setup code here
   // load static data set here
-  loadJSON('../simpleData_noRegions.json', callback);
+  loadJSON('simpleData_noRegions.json', callback);
   // for (let i = 0; i < ; i++) {
   //   bouncers[i] = new Ball(random(width),random(30, 70));
   // }
